@@ -1,6 +1,6 @@
 👋 Hi there! I'm Yash
 
-Welcome to my GitHub profile! I'm a passionate Software Developer. I enjoy solving complex problems and building scalable, efficient solutions. 
+Welcome to my GitHub profile !! I'm a passionate Software Developer. I enjoy solving complex problems and building scalable, efficient solutions. 
 
  🚀 Technologies & Tools I Work With:
 - **Languages**: JavaScript , Java , c++ 
@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer. I enjoy solvi
 - **Version Control**: Git, GitHub, GitLab
 
 🌱 What I'm Currently Working On:
-- Building a **[Type of Application]** to [describe what it does or its goal].
-- Learning more about **[Technology or Framework you're exploring]** and **[skill you're improving]**.
+- Learning **Spring Boot** and **improving my skills in creating RESTful APIs**.
 
  📝 How to Reach Me:
 - 📧 Email: yashyadav4198@gmail.com
@@ -32,7 +31,4 @@ When I'm not coding,I enjoy
 
 Thanks for stopping by! 😊
 
-<!---
-lastuser01/lastuser01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
