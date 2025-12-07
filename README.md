@@ -4,11 +4,11 @@ Welcome to my GitHub profile !! I'm a passionate Software Developer. I enjoy sol
 
  🚀 Technologies & Tools I Work With:
 - **Languages**: JavaScript , Java , c++ 
-- **Frontend**: React, HTML, CSS, SASS
-- **Backend**: Node.js, Express, 
-- **Database**: MySQL, PostgreSQL, MongoDB
+- **Frontend**: React, Redux , HTML, CSS, Tailwind , Bootstrap
+- **Backend**: Node.js, Express, SpringBoot , Spring , JWT.
+- **Database**: MySQL , MongoDB
 - **DevOps**: Docker, Kubernetes, Jenkins, AWS, Azure
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub 
 
 🌱 What I'm Currently Working On:
 - Learning **Spring Boot** and **improving my skills in creating RESTful APIs**.
