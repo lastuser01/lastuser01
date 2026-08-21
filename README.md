@@ -14,7 +14,7 @@ Welcome to my GitHub profile !! I'm a passionate Software Developer. I enjoy sol
 - Learning **Spring Boot** and **improving my skills in creating RESTful APIs**.
 
  📝 How to Reach Me:
-- 📧 Email: yashyadav4198@gmail.com
+- 📧 Email: yash.yadav.post@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/yash-yadav-53b322235
 
 
